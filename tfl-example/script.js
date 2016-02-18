@@ -2,7 +2,7 @@
 $( "#search-bethnal-tube" ).on( "click", function() {
   //first clear any previous reponses
   //https://api.jquery.com/empty/
-  $('.my-new-list').empty();
+  $('.my-new-list').remove();
 
   // api request
   $.getJSON( "https://api.tfl.gov.uk/Line/central/Arrivals/940GZZLUBLG?direction=inbound&app_id=&app_key=", function( data ) {
