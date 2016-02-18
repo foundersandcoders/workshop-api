@@ -41,4 +41,9 @@ Now if you open up console in inspector, and click the button, you should see th
 
 9. Great now we are console loggin the destinations, we just need to find the times as well. Open up the arrival object and find the keyname for time untill the train arrives, console log this as well.
 
-10. Now we are console logging both the destination and the time the train arrives. However the TFL API sends us the time in seconds, let's make it more readable by using the **moment.js** library. Have a go a reading the [Moment.js documentation](http://momentjs.com/) to see if you can work how to make the time more human readable, if you are stuck visit [hints](https://github.com/foundersandcoders/workshop-api/blob/master/hints.md#momentjs). Console log the human readable departure times.
+10. Now we are console logging both the destination and the time the train arrives. However the TFL API sends us the time in seconds, let's make it more readable by using the **moment.js** library. Have a go a reading the [Moment.js documentation](http://momentjs.com/) to see if you can work how to make the time more human readable, if you are stuck visit [hints](https://github.com/foundersandcoders/workshop-api/blob/master/hints.md#momentjs). **Console log the human readable departure times**.
+
+11. Awesome, now we are console logging the exact data we want show on our app. Can you work out how to make this html friendly, and add it to our variable to append to the DOM? Hava go at solving this your self.
+
+If you are stuck, look at [hints] (https://github.com/foundersandcoders/workshop-api/blob/master/hints.md), or checkout the example files on the [Answer branch] (https://github.com/foundersandcoders/workshop-api/blob/answers/tfl-example/script.js).
+
