@@ -20,12 +20,14 @@ Let's start with Apigee
  + How long till the next departing train from Bethnal Green, and what is it's destination?
 
  + Using the [TFL API documentation] (https://api.tfl.gov.uk/) use postman to find out the following?
+
 1. The number of tfl bike at River Street , Clerkenwell?
 2. The number of empty bike slots at River Street , Clerkenwell?
 3. What is the commonName for the tube station found at lat: 51.53277643276, lon: -0.10597868848?
 4. Which buses stop at the bus stop point id of 490003327J?
 
-Extension Govt Petition Site
+Extension: Govt Petition Site
+
 1. Use Postman to do a GET request to https://petition.parliament.uk/petitions/114003.json, what is the petition for?
 2. Visit the govt petition site at https://petition.parliament.uk/, looking at the URL we used above, can you work out how to find a url that is API querable for any petition?
 
