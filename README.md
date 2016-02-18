@@ -7,6 +7,7 @@ Download this github repo as a zip file, open and save in a folder you want to w
 
 
 ###Also Download the following:
++ [Atom Text Editor] (https://atom.io/) If you don't already have a text editor (Sublime is also fine).
 + [Chrome browser] (https://www.google.com/chrome/browser/desktop/) if you dont have it already.
 + [Postman] (https://www.getpostman.com/) free for chrome.
 + [JSON View] (https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en) Chrome plugin.
