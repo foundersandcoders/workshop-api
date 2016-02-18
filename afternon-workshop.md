@@ -47,3 +47,5 @@ Now if you open up console in inspector, and click the button, you should see th
 
 If you are stuck, look at [hints] (https://github.com/foundersandcoders/workshop-api/blob/master/hints.md), or checkout the example files on the [Answer branch] (https://github.com/foundersandcoders/workshop-api/blob/answers/tfl-example/script.js).
 
+
+##Finished? Check you neighbour has also completed, then pair to work on an [extension activity](https://github.com/foundersandcoders/workshop-api/blob/master/afternoon-extension.md)
