@@ -29,11 +29,16 @@ $.getJSON( theUrlYouneed, function (data){
 
 7.We need to manuplate our api data to make it more readable for the users before we add it to the html. The API request has returned an array of objects for us to work with. Each of these objects represents departure. As this comes to us in array form, we can use a handy array method [map](https://msdn.microsoft.com/en-us/library/ff679976(v=vs.94).aspx) to move through each of these objects. Let's start by simply console logging each departure indvidually. Do do this write the following code (type it your self as you will become more familar with it)
 ```
-data.map(function(departure){
- console.log(departure);
+data.map(function(arrival){
+ console.log(arrival);
 });
 
 ```
 Now if you open up console in inspector, and click the button, you should see the indvidual depature objects being logged. ![example](https://files.gitter.im/RachBLondon/eF1s/Screen-Shot-2016-02-18-at-13.49.06.png)
 
-7.
+8.We want to find the destination of each arrival, opening up the object in the inspector console, find the name of the object key which tells us the destination. Check this by console logging that key name, you code should look something like this:
+`console.log(arrival.keyNameForDestination)` this must be inside your `map` function.
+
+9. Great now we are console loggin the destinations, we just need to find the times as well. Open up the arrival object and find the keyname for time untill the train arrives, console log this as well.
+
+10. Now we are console logging both the destination and the time the train arrives. However the TFL API sends us the time in seconds, let's make it more readable by using the **moment.js** library. Have a go a reading the [Moment.js documentation](http://momentjs.com/) to see if you can work how to make the time more human readable, if you are stuck visit [hints](https://github.com/foundersandcoders/workshop-api/blob/master/hints.md#momentjs). Console log the human readable departure times.
