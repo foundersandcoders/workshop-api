@@ -6,7 +6,7 @@ Download this github repo as a zip file, open and save in a folder you want to w
 ![example](https://files.gitter.im/RachBLondon/57ag/Screen-Shot-2016-02-18-at-14.33.12.png)
 
 
-####Also Download the following
+###Also Download the following:
 + [Chrome browser] (https://www.google.com/chrome/browser/desktop/) if you dont have it already.
 + [Postman] (https://www.getpostman.com/) free for chrome.
 + [JSON View] (https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en) Chrome plugin.
