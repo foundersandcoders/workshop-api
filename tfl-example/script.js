@@ -23,7 +23,7 @@ $( "#search-bethnal-tube" ).on( "click", function() {
     $( "<ol/>", {
       "class": "my-new-list",
       html: items.join( "" )
-    }).appendTo( "body" )
+    }).appendTo( "main" )
   });
 
 });

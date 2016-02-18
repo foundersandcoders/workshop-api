@@ -1,0 +1,29 @@
+header {
+  padding: 2em;
+  text-align: center;
+  color: #1C3E94;
+}
+
+header img {
+  width: 200px;
+}
+
+header h1 {
+  font-weight: bold;
+}
+
+header h2 {
+  font-family: 'Bad Script';
+}
+
+header input {
+  background-color: #1C3E94;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+main {
+  display: flex;
+  justify-content: center;
+  font-size: 16px;
+}
