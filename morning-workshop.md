@@ -10,8 +10,8 @@ Let's start with Apigee
  Visit Apigee.com, and navigate to Github API. Using Apigee, can you find out answers to the following?
 
  1. How many followers does the user rachblondon have?
- 2. How many is sohilpandya folling?
- 3. How many issues are there for the foundersandcoders news letter?
+ 2. How many is sohilpandya following?
+ 3. How many issues are there for the foundersandcoders news-letter?
 
  ##Postman
  You should have already downloaded Postman at the beginning of the day, if not visit ******fill in****
