@@ -10,11 +10,11 @@ Let's start with Apigee
  Visit Apigee.com, and navigate to Github API. Using Apigee, can you find out answers to the following?
 
  1. How many followers does the user rachblondon have?
- 2. How many is sohilpandya following?
- 3. How many issues are there for the foundersandcoders news-letter?
+ 2. How many is sohilpandya folling?
+ 3. How many issues are there for the foundersandcoders news letter?
 
  ##Postman
- You should have already downloaded Postman at the beginning of the day, if not visit ******fill in****
+ You should have already downloaded Postman at the beginning of the day, if not visit [https://www.getpostman.com/] (https://www.getpostman.com/)
  We are going to use postman to explore the TFL api, firstly do a GET request to the following URL: https://api.tfl.gov.uk/Line/central/Arrivals/940GZZLUBLG?direction=inbound&app_id=&app_key=
 
  + How long till the next departing train from Bethnal Green, and what is it's destination?
