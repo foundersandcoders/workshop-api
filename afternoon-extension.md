@@ -1,6 +1,6 @@
 #Afternoon Extension Activity
 
-Pair up and choose one of the following activities. For both you will need to read the TFL Documenation, and google if you get stuck (that's how developers work).
+Pair up and choose one of the following activities. For both you will need to read the TFL Documenation, and google if you get stuck.
 
 ###Option 1
 Change the your app to be sepecific to your local (or prefered) station.
