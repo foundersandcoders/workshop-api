@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Sample Request</title>
+  </head>
+  <body>
+  <div class="results">
+
+  </div>
+  </body>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+
+  <script>
+  var request = new XMLHttpRequest();
+  request.onreadystatechange = function() {
+    console.log(request.responseText);
+  };
+  request.open("GET", "http://anapioficeandfire.com/api/characters/583", true);
+  request.send();
+  </script>
+
+  <script>
+  $.getJSON( "http://anapioficeandfire.com/api/characters/583", function (data){
+console.log(data);
+  });
+
+
+  $.get( "http://anapioficeandfire.com/api/characters/583", function( data ) {
+    var string = JSON.stringify(data);
+  alert( "Load was performed." );
+  $('.results').append(string)
+});
+
+  </script>
+</html>
