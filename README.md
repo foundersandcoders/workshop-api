@@ -16,3 +16,8 @@ Download this github repo as a zip file, open and save in a folder you want to w
 [Slides for the weekend] (https://docs.google.com/presentation/d/1GjtRry0XMsaX9FkdEHyxge2KLbDutd7w_85JE1wZF4U/edit?usp=sharing)
 
 [Quiz] (http://goo.gl/forms/YI0t4sxCY4)
+
+
+##Links
+[W3 Schools Vanilla Javascript API request] (http://www.w3schools.com/json/json_http.asp)
+[Programmable Web] (http://www.programmableweb.com/)
