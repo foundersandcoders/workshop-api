@@ -19,5 +19,5 @@ Download this github repo as a zip file, open and save in a folder you want to w
 
 
 ##Links
-[W3 Schools Vanilla Javascript API request] (http://www.w3schools.com/json/json_http.asp)
-[Programmable Web] (http://www.programmableweb.com/)
++ [W3 Schools Vanilla Javascript API request] (http://www.w3schools.com/json/json_http.asp)
++ [Programmable Web] (http://www.programmableweb.com/)
