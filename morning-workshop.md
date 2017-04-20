@@ -15,12 +15,12 @@ For example to get the information on the user "Octocat", we would open up postm
  3. How many issues are there for the foundersandcoders news letter?
 
  ## Postman
- You should have already downloaded Postman at the beginning of the day, if not visit [https://www.getpostman.com/] (https://www.getpostman.com/)
+ You should have already downloaded Postman at the beginning of the day, if not visit [https://www.getpostman.com/](https://www.getpostman.com/)
  We are going to use postman to explore the TFL api, firstly to a GET request to the following URL: https://api.tfl.gov.uk/Line/central/Arrivals/940GZZLUBLG?direction=inbound&app_id=&app_key=
 
  + How long till the next departing train from Bethnal Green, and what is it's destination?
 
- + Using the [TFL API documentation] (https://api.tfl.gov.uk/) use postman to find out the following?
+ + Using the [TFL API documentation](https://api.tfl.gov.uk/) use postman to find out the following?
 
 1. The number of tfl bike at River Street , Clerkenwell?
 2. The number of empty bikes slots at River Street , Clerkenwell?
