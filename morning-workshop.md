@@ -1,10 +1,8 @@
-# Morning Workshop - Using Apigee and Postman
+# Morning Workshop - Using Postman to make an HTTP Request.
 
-Before we write any of our API request code, we are first going to have a look at two very useful tools, Apigee and Postman. These tools let us run API requests without writing any javascript. This helps us explore what data is available quickly (no need to write the code for your app).
+Before we write any of our API request code, we are first going to have a look at Postman. This tool let us run API requests without writing any javascript. So no need to to write any code and we can make a HTTP request, and get the response back in a easy to read format.
 
 For this excerise we will be using the Github and TFL APIs, both will return us data in JSON (JavaScript Object Notation) form.
-
-Let's start with Apigee
 
 ## Github API
 Open up the postman app you downloaded this morning. We are going to be accessing the github api to get some information on some github users.
