@@ -31,7 +31,8 @@ Extension: Govt Petition Site
 
 1. Go to the the [Government Petition Website](https://petition.parliament.uk/petitions/) and find a petition that interests you.
 2. Got to the bottom of the page and click on the 'Get petition data (json format)'.
-3. Now you can see the benefits of JSON View as as the JSON object is in a nice and easy readable format. 
+3. Now you can see the benefits of JSON View as as the JSON object is in a nice and easy to read format. 
+4. Who can tell me how many signatures they got in Clacton ?
 
 ## Further Reading 
 [TfL Unified API Part 1: Introduction](http://blog.tfl.gov.uk/2015/10/01/tfl-unified-api-part-1-introduction/)
