@@ -29,7 +29,7 @@ For example to get the information on the user "Octocat", we would open up postm
 
 Extension: Govt Petition Site
 
-1. Go to the the [Government Petition Website] (https://petition.parliament.uk/petitions/) and find a petition that interests you.Use Postman to do a GET request to https://petition.parliament.uk/petitions/114003.json, what is the petition for?
+1. Go to the the [Government Petition Website](https://petition.parliament.uk/petitions/) and find a petition that interests you.Use Postman to do a GET request to https://petition.parliament.uk/petitions/114003.json, what is the petition for?
 2. Got to the bottom of the page and click on the 'Get petition data (json format)'.
 3. Now you can see the benefits of JSON View as as the JSON object is in a nice and easy readable format. 
 
