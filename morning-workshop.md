@@ -2,12 +2,12 @@
 
 Before we write any of our API request code, we are first going to have a look at two very useful tools, Apigee and Postman. These tools let us run API requests without writing any javascript. This helps us explore what data is available quickly (no need to write the code for your app).
 
-For this excerise we will be using the Github and TLF APIs, both will return us data in JSON (JavaScript Object Notation)form.
+For this excerise we will be using the Github and TFL APIs, both will return us data in JSON (JavaScript Object Notation) form.
 
 Let's start with Apigee
 
 ## Apigee
- Visit Apigee.com, and navigate to Github API. Using Apigee, can you find out answers to the following?
+ Visit [Apigee.com](apigee.com), and navigate to Github API. Using Apigee, can you find out answers to the following?
 
  1. How many followers does the user rachblondon have?
  2. How many is sohilpandya folling?
@@ -15,14 +15,14 @@ Let's start with Apigee
 
  ## Postman
  You should have already downloaded Postman at the beginning of the day, if not visit [https://www.getpostman.com/] (https://www.getpostman.com/)
- We are going to use postman to explore the TFL api, firstly do a GET request to the following URL: https://api.tfl.gov.uk/Line/central/Arrivals/940GZZLUBLG?direction=inbound&app_id=&app_key=
+ We are going to use postman to explore the TFL api, firstly to a GET request to the following URL: https://api.tfl.gov.uk/Line/central/Arrivals/940GZZLUBLG?direction=inbound&app_id=&app_key=
 
  + How long till the next departing train from Bethnal Green, and what is it's destination?
 
  + Using the [TFL API documentation] (https://api.tfl.gov.uk/) use postman to find out the following?
 
 1. The number of tfl bike at River Street , Clerkenwell?
-2. The number of empty bike slots at River Street , Clerkenwell?
+2. The number of empty bikes slots at River Street , Clerkenwell?
 3. What is the commonName for the tube station found at lat: 51.53277643276, lon: -0.10597868848?
 4. Which buses stop at the bus stop point id of 490003327J?
 
