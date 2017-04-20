@@ -3,9 +3,9 @@
 This afternoon we are going to build our own Journey Planner app.
 
 This workshop will use:
-- [TFL API] (https://api.tfl.gov.uk/) To get our data.
-- [JQuery] (https://jquery.com/) To help us write JavaScript more simply.
-- [Moment js] (http://momentjs.com/) To add human readable time.
+- [TFL API](https://api.tfl.gov.uk/) To get our data.
+- [JQuery](https://jquery.com/) To help us write JavaScript more simply.
+- [Moment js](http://momentjs.com/) To add human readable time.
 
 To save time, we are going to use some premade HTML, CSS and JS files. This can be found in this repo, in the tfl example folder.
 
@@ -21,9 +21,9 @@ $.getJSON( theUrlYouneed, function (data){
 });
 
 ```
-4. now once your open up your file, open up developer tools and navigate to the console tab, once you press the button you should see something like this ![example image] (https://files.gitter.im/RachBLondon/nrPd/Screen-Shot-2016-02-18-at-13.13.05.png) We can see that the GET request has been sucessful.
+4. now once your open up your file, open up developer tools and navigate to the console tab, once you press the button you should see something like this ![example image](https://files.gitter.im/RachBLondon/nrPd/Screen-Shot-2016-02-18-at-13.13.05.png) We can see that the GET request has been sucessful.
 
-5. On line 8 `console.log` **the data you get back from the API**. Hint the data will have the same name as the argument we have the callback in getJSON (in this case it is simply data). Now if you open up the console in inspector, you should be able to see the JSON object. ![Console logged API object] (https://files.gitter.im/RachBLondon/OgOB/Screen-Shot-2016-02-18-at-13.28.48.png).
+5. On line 8 `console.log` **the data you get back from the API**. Hint the data will have the same name as the argument we have the callback in getJSON (in this case it is simply data). Now if you open up the console in inspector, you should be able to see the JSON object. ![Console logged API object](https://files.gitter.im/RachBLondon/OgOB/Screen-Shot-2016-02-18-at-13.28.48.png).
 
 6. Next Create a `var` called items, assign it to an empty array ie `var items = [];` We are going to build up this variable to contain the data that we eventually want to add to the DOM (the html).
 
@@ -45,7 +45,7 @@ Now if you open up console in inspector, and click the button, you should see th
 
 11. Awesome, now we are console logging the exact data we want show on our app. Can you work out how to make this html friendly, and add it to our variable to append to the DOM? Hava go at solving this your self.
 
-If you are stuck, look at [hints] (https://github.com/foundersandcoders/workshop-api/blob/master/hints.md), or checkout the example files on the [Answer branch] (https://github.com/foundersandcoders/workshop-api/blob/answers/tfl-example/script.js).
+If you are stuck, look at [hints](https://github.com/foundersandcoders/workshop-api/blob/master/hints.md), or checkout the example files on the [Answer branch](https://github.com/foundersandcoders/workshop-api/blob/answers/tfl-example/script.js).
 
 
 ##Finished? Check you neighbour has also completed, then pair to work on an [extension activity](https://github.com/foundersandcoders/workshop-api/blob/master/afternoon-extension.md)
