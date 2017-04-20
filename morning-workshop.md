@@ -11,7 +11,7 @@ For example to get the information on the user "Octocat", we would open up postm
 `https://api.github.com/users/octocat`
 
  1. How many followers does the user rachblondon have?
- 2. How many is sohilpandya folling?
+ 2. How many people is tormo17 following?
  3. How many issues are there for the foundersandcoders news letter?
 
  ## Postman
@@ -29,9 +29,9 @@ For example to get the information on the user "Octocat", we would open up postm
 
 Extension: Govt Petition Site
 
-1. Use Postman to do a GET request to https://petition.parliament.uk/petitions/114003.json, what is the petition for?
-2. Visit the govt petition site at https://petition.parliament.uk/, looking at the URL we used above, can you work out how to find a url that is API querable for any petition?
-
+1. Go to the the [Government Petition Website] (https://petition.parliament.uk/petitions/) and find a petition that interests you.Use Postman to do a GET request to https://petition.parliament.uk/petitions/114003.json, what is the petition for?
+2. Got to the bottom of the page and click on the 'Get petition data (json format)'.
+3. Now you can see the benefits of JSON View as as the JSON object is in a nice and easy readable format. 
 
 ## Further Reading 
 [TfL Unified API Part 1: Introduction](http://blog.tfl.gov.uk/2015/10/01/tfl-unified-api-part-1-introduction/)
