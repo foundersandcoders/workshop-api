@@ -6,8 +6,11 @@ For this excerise we will be using the Github and TFL APIs, both will return us 
 
 Let's start with Apigee
 
-## Apigee
- Visit [Apigee.com](apigee.com), and navigate to Github API. Using Apigee, can you find out answers to the following?
+## Github API
+Open up the postman app you downloaded this morning. We are going to be accessing the github api to get some information on some github users.
+
+For example to get the information on the user "Octocat", we would open up postman and do a GET request on the following URL:
+`https://api.github.com/users/octocat`
 
  1. How many followers does the user rachblondon have?
  2. How many is sohilpandya folling?
