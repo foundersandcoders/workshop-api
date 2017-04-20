@@ -1,12 +1,12 @@
 # Weekend-Workshop-APIs
 Welcome to Founders and Coders one day workshop on APIs.
 
-##Before we start
+## Before we start
 Download this github repo as a zip file, open and save in a folder you want to work from.
-![example](https://files.gitter.im/RachBLondon/57ag/Screen-Shot-2016-02-18-at-14.33.12.png)
+![example](https://files.gitter.im/foundersandcoders/workshop-html-css/cGgD/Screen-Shot-2017-04-20-at-18.57.22.png)
 
 
-###Also Download the following:
+### Also Download the following:
 + [Atom Text Editor] (https://atom.io/) If you don't already have a text editor (Sublime is also fine).
 + [Chrome browser] (https://www.google.com/chrome/browser/desktop/) if you dont have it already.
 + [Postman] (https://www.getpostman.com/) free for chrome.
@@ -18,7 +18,7 @@ Download this github repo as a zip file, open and save in a folder you want to w
 [Quiz] (http://goo.gl/forms/YI0t4sxCY4)
 [Feedback] (http://bit.ly/1Wy0dpD)
 
-##Links
+## Links
 + [W3 Schools Vanilla Javascript API request] (http://www.w3schools.com/json/json_http.asp)
 + [Programmable Web] (http://www.programmableweb.com/)
 
