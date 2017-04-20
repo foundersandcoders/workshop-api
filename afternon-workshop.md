@@ -1,4 +1,4 @@
-##Afternoon Workshop - Build your own TFL Journey Planner
+## Afternoon Workshop - Build your own TFL Journey Planner
 
 This afternoon we are going to build our own Journey Planner app.
 
