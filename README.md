@@ -4,8 +4,6 @@ Welcome to Founders and Coders one day workshop on APIs.
 ## Before we start
 Download this github repo as a zip file, open and save in a folder you want to work from.
 ![example](https://files.gitter.im/foundersandcoders/workshop-html-css/cGgD/Screen-Shot-2017-04-20-at-18.57.22.png)
-+ Visit [appgiee.com](
-
 
 ### Also Download the following:
 + [Atom Text Editor](https://atom.io/) If you don't already have a text editor (Sublime is also fine).
