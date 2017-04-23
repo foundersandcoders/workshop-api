@@ -5,7 +5,7 @@
 `console.log(moment().add(arrival.timeToStation, 'seconds').fromNow());`
 
 
-#### Adding html and pushing to items variabls
+#### Adding html and pushing to items variables
 `items.push("<li>"+ arrival.destinationName + moment().add(arrival.timeToStation, 'seconds').fromNow()+"</li>")`
 
 #### Appending items var to the DOM
