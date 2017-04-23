@@ -11,7 +11,7 @@ For example to get the information on the user "Octocat", we would open up postm
 `https://api.github.com/users/octocat`
 
  1. How many followers does the user rachblondon have?
- 2. How many people is tormo17 following?
+ 2. How many people is tormod17 following?
  3. How many issues are there for the foundersandcoders news letter?
 
  ## Transport for London API
