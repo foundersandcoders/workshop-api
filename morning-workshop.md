@@ -24,7 +24,7 @@ For example to get the information on the user "Octocat", we would open up postm
 
 1. The number of tfl bike at River Street , Clerkenwell?
 2. The number of empty bikes slots at River Street , Clerkenwell?
-3. What is the commonName of the departure Station if I leave from these co-ordinates lat: 51.53277643276, lon: -0.10597868848 and arrive at Mile end?
+3. What is the commonName of the under ground station at lat: 51.53277643276, lon: -0.10597868848?
 4. Which buses stop at the bus stop point id of 490003327J?
 
 Extension: Govt Petition Site
